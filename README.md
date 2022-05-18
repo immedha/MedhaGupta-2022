@@ -1,1 +1,3 @@
 # MedhaGupta-2022
+
+Police violence in America is an issue and there have been many claims that there is significantly more violence towards people of color. I have quantified this by using statistics to understand exactly how much more police violence there has been towards African Americans than to white people. My research question is, "What is the probability that an African American person in America will be killed by police brutality in their lifetime?". I answer this then perform the same math for white people. I statistically compare the numbers to understand how much more police violence there has been towards African Americans.
